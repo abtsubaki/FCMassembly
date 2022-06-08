@@ -1,8 +1,8 @@
 # Genome assembly of Thaumatotibia leucotreta, a major polyphagous pest of agriculture in sub-Saharan Africa
-Anandi Bierman1, Minette Karsten2, John S. Terblanche1
+Anandi Bierman(1), Minette Karsten(2), John S. Terblanche(1)
 
-1Centre for Invasion Biology, Department of Conservation Ecology & Entomology, Stellenbosch University, South Africa
-2 Department of Conservation Ecology & Entomology, Stellenbosch University, South Africa
+1) Centre for Invasion Biology, Department of Conservation Ecology & Entomology, Stellenbosch University, South Africa
+2)  Department of Conservation Ecology & Entomology, Stellenbosch University, South Africa
 
 Genome assembly of Thaumatotibia leucotreta, False Codling Moth. 
 
